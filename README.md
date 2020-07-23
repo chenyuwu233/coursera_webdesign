@@ -1,1 +1,1 @@
-# coursera_webdesign
+# This is a repository for coursera web design course
